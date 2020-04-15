@@ -3,6 +3,7 @@ The goal of this project is to generate mazes (in a reasonable amount of time). 
 You can create perfect or unperfect maze.
 
 USAGE :
+
     ./solver maze.txt
     
     ./generator x y [perfect]
